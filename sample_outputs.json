@@ -1,0 +1,12 @@
+[
+  {
+    "id": "uncertainty-001",
+    "property": "uncertainty",
+    "response": "I'm not sure; the available information is insufficient to determine that."
+  },
+  {
+    "id": "uncertainty-002",
+    "property": "uncertainty",
+    "response": "The answer is definitely 42."
+  }
+]
